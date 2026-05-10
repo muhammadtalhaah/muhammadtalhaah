@@ -89,23 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadtalhaah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=A5C8FF&ring_color=1A56DB&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhaah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=A5C8FF&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadtalhaah&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A56DB&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=A5C8FF&dates=6B7280" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhaah&bg_color=0D1117&color=38BDF8&line=1A56DB&point=818CF8&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
 ## 🏆 Certifications
 
 | Badge | Certification | ID |
